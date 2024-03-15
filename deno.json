@@ -1,0 +1,9 @@
+{
+  "imports": {
+    "dotenv": "https://deno.land/x/dotenv/mod.ts",
+    "llamaindex": "npm:llamaindex"
+  },
+  "tasks": {
+    "main": "deno run -A main.ts"
+  }
+}
