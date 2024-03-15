@@ -5,8 +5,8 @@
 This is a simple agent that can be used to interact with custom data sources. It is designed to be used with Ollama.
 
 ## Pre-requisites
-
-Deno runtime is required to run this agent.
+- Ollama running locally. 
+- Deno runtime.
 
 ## Usage
 
